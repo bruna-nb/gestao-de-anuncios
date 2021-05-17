@@ -20,12 +20,12 @@ Além disso, o sistema possui uma interface gráfica para facilitar a interaçã
  ![menu_principal](https://user-images.githubusercontent.com/73616453/118419438-5e63a080-b692-11eb-956f-141a4f69c09a.png)
  
  #### Cadastro de Cliente
- No cadastro de clientes, o usuário pode informar o nome, telefone e email do cliente. O único campo obrigatório é o nome.
+ No cadastro de clientes, o usuário pode informar o nome, telefone e email do cliente. O único campo obrigatório é o nome. O código é gerado automaticamente.
  
  ![cadastro_cliente](https://user-images.githubusercontent.com/73616453/118419456-6de2e980-b692-11eb-8c18-0699204c9f7a.png)
  
  #### Cadastro de Anúncio
- No cadastro de anúncios, o usuário pode informar o título para o anúncio, selecionar o cliente na caixa de seleção, escolher a data de início e término no calendário e informar o investimento diário do anúncio. Todos os campos são obrigatórios.
+ No cadastro de anúncios, o usuário pode informar o título para o anúncio, selecionar o cliente na caixa de seleção, escolher a data de início e término no calendário e informar o investimento diário do anúncio. Todos os campos são obrigatórios. O código é gerado automaticamente
  
  ![cadastro_anuncio](https://user-images.githubusercontent.com/73616453/118419477-7cc99c00-b692-11eb-90c3-9a6a3f30bdad.png)
  
