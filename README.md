@@ -53,8 +53,8 @@ Além disso, o sistema possui uma interface gráfica para facilitar a interaçã
     (1ª pessoa -> compartilha -> 2ª pessoa -> compartilha - > 3ª pessoa -> compartilha -> 4ª pessoa)
     
 ## Como Executar o Sistema
-1. No terminal, clonar o repositório: <git clone https://github.com/bruna-nb/gestao-de-anuncios>
-2. Ainda no terminal, instalar o pacote PySimple GUI: <pip install PySimpleGui>
+1. No terminal, clonar o repositório: `git clone https://github.com/bruna-nb/gestao-de-anuncios`
+2. Ainda no terminal, instalar o pacote PySimple GUI: `<pip install PySimpleGui>`
 3. No compilador python de sua preferência, abrir e executar o arquivo 'main.py'
 
  > Status do Projeto: Concluido :heavy_check_mark:
