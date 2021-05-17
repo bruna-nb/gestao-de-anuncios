@@ -13,8 +13,6 @@ Além disso, o sistema possui uma interface gráfica para facilitar a interaçã
 - Gerar relatório de anúncios;
   - O relatório pode ser filtrado por cliente e período e mostra quanto o cliente investiu, dentro do período informado, em cada um de seus anúncios, assim como os resultados (máximo de visualiações, cliques e compartilhamentos) de cada anúncio;
  
- > Status do Projeto: Concluido :heavy_check_mark:
- 
  ## Telas do Sistema
  
  #### Menu Principal
@@ -53,5 +51,7 @@ Além disso, o sistema possui uma interface gráfica para facilitar a interaçã
 1. No terminal, clonar o repositório: git clone https://github.com/bruna-nb/gestao-de-anuncios
 2. Ainda no terminal, instalar o pacote PySimple GUI: pip install PySimpleGui
 3. No compilador python de sua preferência, abrir e executar o arquivo 'main.py'
+
+ > Status do Projeto: Concluido :heavy_check_mark:
 
 
